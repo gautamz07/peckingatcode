@@ -2,6 +2,7 @@
 title: A Quick dive into git stash
 date: 2020-04-04 21:30:17
 tags: [git]
+cover: /images/peace.jpg
 ---
 
 To list out all the stashs
