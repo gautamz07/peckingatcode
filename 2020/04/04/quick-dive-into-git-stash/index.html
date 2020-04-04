@@ -75,14 +75,14 @@
         
   
     <h1 class="post-title">
-      <a href="/peckingatcode/2020/03/31/switch-branch-in-git/">
-        Switch branch in git
+      <a href="/peckingatcode/2020/04/04/quick-dive-into-git-stash/">
+        A Quick dive into git stash
       </a>
     </h1>
   
 
 <div class="post-meta">
-  2020-03-31
+  2020-04-04
   
   
 </div>
@@ -91,9 +91,16 @@
     </div>
     <div class="post-detail">
       
-        <h3 id="Well-How-do-we-switch-branches"><a href="#Well-How-do-we-switch-branches" class="headerlink" title="Well How do we switch branches"></a>Well How do we switch branches</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git switch -C remote/&lt;branch-name&gt;</span><br></pre></td></tr></table></figure>
+        <p>To list out all the stashs</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git stash list</span><br></pre></td></tr></table></figure>
 
-<p>Simple just switch buddy ! </p>
+<p>To list out contents of a specific stash</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git stash show stash@&#123;0&#125; -p</span><br></pre></td></tr></table></figure>
+
+<p>To list out just the name of the files (not the contents)</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git stash show stash@&#123;0&#125; --name-only</span><br></pre></td></tr></table></figure>
+
+
 
         <hr>
       
@@ -108,7 +115,7 @@
   
   
   <div class="post-tags">
-    <a href="/peckingatcode/tags/git/">#git</a> <a href="/peckingatcode/tags/javascript/">#javascript</a>
+    <a href="/peckingatcode/tags/git/">#git</a>
   </div>
   <hr>
   
@@ -117,9 +124,14 @@
   
     <div class="post-pre">
       <span>previous</span>
-      <a href="/peckingatcode/2020/03/31/hello-world/">Hello World</a>
+      <a href="/peckingatcode/2020/04/04/quick-dive-into-git-lala/">quick-dive-into-git-lala</a>
     </div>
   
+  
+  <div class="post-next">
+    <span>next</span>
+    <a href="/peckingatcode/2020/03/31/hello-world/">Hello World</a>
+  </div>
   
 </div>
       
