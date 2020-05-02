@@ -11,4 +11,4 @@
 ### Killing a port id on mac 
  - https://stackoverflow.com/questions/12397175/how-do-i-close-an-open-port-from-the-terminal-on-the-mac 
 
-
+### git subtree push --prefix public origin gh-pages
