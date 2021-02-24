@@ -3,6 +3,7 @@ title: Keep your day productive
 date: 2020-09-08 00:53:57
 tags: [productivity]
 thumbnail: /images/peace.jpg
+excerpt: 'Be a monk. Acheive zen like focus and slay your goals, with these few simple tips.'
 ---
 
 Alright class , lets take a dive into what are some of the simple habits/tips/tricks that you can use to keep your day produvtive snd end up with a day which seems 'satifying'. Bear in mind , effort can be seen by people watching you but satisfaction can't be , because its something that you feel at the end of the day just before you turn off the lights and go to bed.

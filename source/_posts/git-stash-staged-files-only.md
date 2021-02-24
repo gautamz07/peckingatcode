@@ -7,6 +7,7 @@ thumbnail: /images/code.jpg
 
 If you've been using git for a while , chances are you've come across the scenario where you need to stash not all your changes , but just the changes you've staged. In this scenario you can simply double stash in 2 simple steps.
 
+<!-- more -->
 
 ```bash
 $ git stash --keep-index
