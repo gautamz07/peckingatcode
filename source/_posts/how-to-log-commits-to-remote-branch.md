@@ -2,7 +2,7 @@
 title: How to log commits to remote branch
 date: 2021-03-14 20:47:06
 tags: [git, productivity]
-thumbnail: /images/code.jpg
+thumbnail: /images/code-git.jpg
 excerpt: 'Do you have to often switch between the browser and your editor to check the latest commits to a remote branch ?'
 ---
 

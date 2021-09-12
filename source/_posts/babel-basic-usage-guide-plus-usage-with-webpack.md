@@ -1,15 +1,13 @@
 ---
 title: Babel basic usage guide plus usage with webpack
-widgets:
-  - position: left
-    type: recent_posts
 date: 2021-08-21 18:31:51
 tags: [babel,javascript,ecmascript-6,compiler]
-excerpt: 'Just for demostraction purpose lets play around with babel a little and over time i'll expand on this article on how to used babel alongside webpack. For starters lets create a folder...'
+thumbnail: /images/code-2.jpg
 ---
 
 Just for demostraction purpose lets play around with babel a little and over time i'll expand on this article on how to used babel alongside webpack. For starters lets create a folder structure that resembles the below :-
 <!-- more -->
+
 ```javascipt
 - src
   - index.js

@@ -5,6 +5,7 @@ widgets:
     type: recent_posts
 date: 2021-07-11 00:11:27
 tags: [javascript]
+thumbnail: /images/code.jpg
 ---
 
 you can use the typeof operator like below
